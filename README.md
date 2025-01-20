@@ -1,6 +1,6 @@
 <h2>Welcome to my profile</h2>
 
-```Hi! I'm Computer Science Student```
+```Hi! I'm Computer Science Student / Enthusiast```
 
 Learning: 
 ```
