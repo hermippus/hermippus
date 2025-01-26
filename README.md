@@ -12,5 +12,3 @@ Databases: [PostgreSQL, MySQL/MariaDB, MongoDB]
 GNU/Linux distros: [Debian, Arch Linux, Rocky Linux, Alpine Linux]
 Tools & More: [IntelliJ IDEA, Visual Studio Code, NeoVim, Figma]
 ```
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hermippus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
