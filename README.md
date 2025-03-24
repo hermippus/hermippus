@@ -5,7 +5,7 @@
 Learning: 
 ```
 Programming languages: [Java, C, TypeScript, JavaScript]
-Frameworks: [Sprimg, NuxtJS, VueJS, TailwindCSS]
+Frameworks: [Spring, NuxtJS, VueJS, TailwindCSS]
 Build systems: [Gradle, Maven]
 DevOps & Infrastructure: [Jenkins, GitHub Actions, Docker, Kubernetes, Nginx, CloudFlare]
 Databases: [PostgreSQL, MySQL/MariaDB, MongoDB]
